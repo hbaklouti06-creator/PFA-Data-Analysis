@@ -1,0 +1,7 @@
+.venv/
+.venv_hdbscan/
+.venv_sbert/
+.venv_umap/
+.idea/
+__pycache__/
+*.pyc
